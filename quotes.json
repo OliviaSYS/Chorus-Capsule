@@ -1,0 +1,24 @@
+{
+  "user:772889467694481408": {
+    "sample": [
+      "abcde",
+      "bello",
+      "putos",
+      "bleuuu"
+    ],
+    "real test": [
+      "abcde",
+      "alphabet",
+      "rhyme",
+      "export"
+    ]
+  },
+  "group:1393051375218331780": {
+    "sample": [
+      "hello",
+      "bello",
+      "budah",
+      "soooooooooooo"
+    ]
+  }
+}
