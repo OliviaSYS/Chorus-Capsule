@@ -3,14 +3,23 @@ ChorusCapsule is a Discord Bot that helps users store quotes in a "memory capsul
 
 # 💻 Commands
 /create - create a portfolio to store quotes
+
 /access - access a portfolio to make it active (this automatically creates a portfolio if the inputted portfolio is non-existent)
+
 /delete - delete a portfolio
+
 /add - add a quote
+
 /count - get the amount of quotes in your portfolio
+
 /export - export your quotes as a text message
+
 /peek - peek at your latest quote
+
 /pop - remove your latest quote
+
 /random - get one of your quotes (randomly chosen 🎲)
+
 /generate - generate a poem randomly and embrace the past! 📝
 
 # 🖥 Technology Used
