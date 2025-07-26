@@ -23,7 +23,13 @@ ChorusCapsule is a Discord Bot that helps users store quotes in a "memory capsul
 /generate - generate a poem randomly and embrace the past! 📝
 
 # 🖥 Technology Used
-ChorusCapsule is coded mainly using Javascript. The quotes are stored in a JSON file. This discord app uses HTTP API for testing and NodeJS (installed). It runs on an Express server and utilizes ngrok for a public endpoint.
+ChorusCapsule is coded mainly using Javascript. The quotes are stored in a JSON file. This discord app uses HTTPS API for testing and NodeJS (installed). It runs on an Express server and utilizes ngrok for a public endpoint.
+
+# ⚙ Invite the Discord Bot
+Use this link to try out this discord bot!: [Click Here!](https://discord.com/oauth2/authorize?client_id=1393045982937350256)
+
+# 🕹 Installation
+To setup this project, follow these instructions: [Discord Developers Instructions]((https://discord.com/developers/docs/quick-start/getting-started)). Make sure to use the github link and repository name corresponding to Chorus-Capsule!
 
 # 🙏 Credits
 Thank you Discord Developer Portal for all of the resources and help!
