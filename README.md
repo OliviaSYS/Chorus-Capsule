@@ -29,7 +29,7 @@ ChorusCapsule is coded mainly using Javascript. The quotes are stored in a JSON 
 Use this link to try out this discord bot!: [Click Here!](https://discord.com/oauth2/authorize?client_id=1393045982937350256)
 
 # 🕹 Installation
-To setup this project, follow these instructions: [Discord Developers Instructions]((https://discord.com/developers/docs/quick-start/getting-started)). Make sure to use the github link and repository name corresponding to Chorus-Capsule!
+To setup this project, follow these instructions: [Discord Developers Instructions](https://discord.com/developers/docs/quick-start/getting-started). Make sure to use the github link and repository name corresponding to Chorus-Capsule!
 
 # 🙏 Credits
 Thank you Discord Developer Portal for all of the resources and help!
